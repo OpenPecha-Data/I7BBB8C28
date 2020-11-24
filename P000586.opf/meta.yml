@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W16515
   title: གསུང་འབུམ། བློ་བཟང་འཇམ་དབྱངས་སྨོན་ལམ
-  volume: ''
+  volume:
+    b6482bae5c00437d99a7411e3114930c:
+      image_group_id: I3891
+      title: ''
+      volume_number: 1
+      total_pages: 812
+    679fcc4e860c43c389e25f66010c7cd5:
+      image_group_id: I3892
+      title: ''
+      volume_number: 2
+      total_pages: 816
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། བློ་བཟང་འཇམ་དབྱངས་སྨོན་ལམ
+  author: ''
+  sku: P000586
+  cover: cover.jpg
+  layers:
+  - pagination
