@@ -1,5 +1,7 @@
 id: P000586
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W16515
   title: གསུང་འབུམ། བློ་བཟང་འཇམ་དབྱངས་སྨོན་ལམ
@@ -17,10 +19,3 @@ source_metadata:
       volume_number: 2
       total_pages: 816
       base_file: v002.txt
-ebook_metadata:
-  title: གསུང་འབུམ། བློ་བཟང་འཇམ་དབྱངས་སྨོན་ལམ
-  author: ''
-  sku: P000586
-  cover: cover.jpg
-  layers:
-  - pagination
